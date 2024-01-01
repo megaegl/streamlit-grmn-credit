@@ -280,7 +280,7 @@ Secara sederhana, kita mendapatkan 2 segmentasi nasabah yaitu nasabah dengan cre
 
 Selanjutnya kita akan melihat data jumlah dari kolom label pada data kita:
 ![lr](distclust.png)
-Ternyata nasabah yang masuk kedalam label/cluster 1 memiliki data paling banyak.
+Ternyata nasabah yang masuk kedalam label/cluster 0 memiliki data paling banyak.
 
 ## Evaluation
 
