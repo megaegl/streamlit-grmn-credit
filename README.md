@@ -323,4 +323,4 @@ Ternyata jumlah cluster sebanyak 2 memiliki skor paling besar diantara yang lain
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-grmn-credit-efh229aaj7k6xvhgy7kyzr.streamlit.app/
